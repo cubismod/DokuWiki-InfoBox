@@ -1,5 +1,3 @@
-Here's a README.md file for your DokuWiki Infobox plugin that you could use on GitHub:
-
 ```markdown
 # DokuWiki Infobox Plugin
 
@@ -24,7 +22,6 @@ This plugin adds an infobox functionality to DokuWiki, allowing users to easily 
 
 To use the infobox in a page, use the following syntax:
 
-```
 {{infobox>
 name = Character Name
 image = character_image.jpg
