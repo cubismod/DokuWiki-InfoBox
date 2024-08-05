@@ -1,4 +1,4 @@
-```markdown
+
 # DokuWiki Infobox Plugin
 
 This plugin adds an infobox functionality to DokuWiki, allowing users to easily create structured information boxes for characters, places, or any other entities in their wiki.
@@ -22,6 +22,7 @@ This plugin adds an infobox functionality to DokuWiki, allowing users to easily 
 
 To use the infobox in a page, use the following syntax:
 
+```markdown
 {{infobox>
 name = Character Name
 image = character_image.jpg
