@@ -3,6 +3,8 @@
 
 This plugin adds an infobox functionality to DokuWiki, allowing users to easily create structured information boxes for characters, places, or any other entities in their wiki.
 
+![Example Image](https://github.com/user-attachments/assets/bc071cb2-aaf6-41b6-8e6b-95aae67ffa53)
+
 ## Features
 
 - Easy-to-use syntax for creating infoboxes
